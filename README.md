@@ -2,8 +2,8 @@
 
 ## Get In Touch
 Have any problem? Don't hesitate to connect... <br>
-(i) Facebook: https://www.facebook.com/mohsingram <br>
-(ii) Youtube: https://www.youtube.com/mohsingram <br>
+(i) https://www.facebook.com/lokesh.datey <br>
+(ii) https://www.instagram.com/lokesh_datey_official/ <br>
 
 ## Web View
 Go to this link to view website <br>
