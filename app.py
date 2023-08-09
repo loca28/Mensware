@@ -19,10 +19,11 @@ configure_uploads(app, photos)
 # Config MySQL
 mysql = MySQL()
 app.config['MYSQL_HOST'] = 'sql6.freemysqlhosting.net'
-app.config['MYSQL_USER'] = 'sql6636112'
-app.config['MYSQL_PASSWORD'] = 'WHIvnyRX7w'
-app.config['MYSQL_DB'] = 'sql6636112'
+app.config['MYSQL_USER'] = 'sql6638561'
+app.config['MYSQL_PASSWORD'] = 'I2HdsGW17f'
+app.config['MYSQL_DB'] = 'sql6638561'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
+
 
 # Initialize the app for use with this MySQL class
 mysql.init_app(app)
